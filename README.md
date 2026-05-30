@@ -184,19 +184,3 @@ As organizations progress through these maturity levels, several anti-patterns c
 The AI agent maturity model is not a rigid prescription but a practical lens for understanding your current capabilities and planning your next steps. The most important insight is that maturity is not about adopting the latest technology or the most complex architecture. It is about building the right operational discipline, governance, and infrastructure for your current stage: and having a clear plan for evolving to the next level when your needs demand it. Organizations that advance deliberately through each level build sustainable AI agent capabilities. Those that skip ahead often find themselves rebuilding foundations under the pressure of production incidents.
 
 To start mapping your own AI agent maturity journey, explore Omnithium’s [platform](https://omnithium.ai) or see our [pricing](https://omnithium.ai/pricing) for enterprise plans.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/ai-agent-maturity-model).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
